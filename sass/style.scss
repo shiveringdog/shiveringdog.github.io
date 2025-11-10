@@ -35,12 +35,20 @@ header h1 {
 nav {
 	display: flex;
 	align-items: center;
-	gap: 1em;
+	gap: 0.5em;
 }
 
 nav a {
 	text-decoration: none;
-	padding: 0.5em 0.5em 0.1em 0.5em;
-	background-color: #1e1e1e;
+	padding: 0.5em 0.75em 0.35em 0.75em;
+	background-color: #252526;
 	color: #d4d4d4;
+}
+
+nav a:hover {
+	background-color: #1e1e1e;
+}
+
+nav a.active {
+	background-color: #1e1e1e;
 }
