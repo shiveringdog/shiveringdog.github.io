@@ -2,6 +2,7 @@
 title = "Update"
 date = 2026-04-29
 +++
+
 Hello!
 
 As you can see, the last post on this site was quite some time ago. School did indeed pick up, and all of us became a lot busier than we imagined.
